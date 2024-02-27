@@ -1,2 +1,2 @@
-# ChessMate-TwitterBot
-A dynamic and engaging Twitter bot for chess enthusiasts, delivering puzzles, player spotlights, and more.
+# ChessCompanion-DiscordBot
+A discord chess bot that can provide the user with the chess puzzle of the rating they ask for. Also periodically posts puzzle in the server.
